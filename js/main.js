@@ -3,6 +3,7 @@ function DocumentReady() {
     $(document).ready(function () {
         $('.header').load('header.html');
         $('.main').load('main.html');
+        $('.footer').load('footer.html');
     });
 }
 

@@ -37,7 +37,7 @@ body{
     margin: 0 auto;
     /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
     width: 58.5%;
-    margin-left: 25%;
+    margin-left: 21%;
 }
 
 .galeria-size{
@@ -55,6 +55,7 @@ body{
     border-radius: 10%;
     font-size: 15px;
     margin: 1%;
+    z-index: 1;
 }
 
 
@@ -83,6 +84,7 @@ body{
 .bodyRedSocial{
     background: #0093E9;
     background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    margin-top: 1%;
 }
 
 .redSocial{
