@@ -148,3 +148,9 @@ body{
 .button-Cont{
     text-align: end;
 }
+
+.cardStyle{
+    width: 25rem;
+    text-align: center;
+    margin: auto;
+}
